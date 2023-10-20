@@ -47,8 +47,7 @@ public class Iphone implements ReprodutorMusical, AparelhoTelefonico, Navegador 
         System.out.println("Atualizando a página atual");
     }
 
-    // Outros métodos e propriedades da classe iPhone
-    // ...
+    
 
     public static void main(String[] args) {
         Iphone iPhone = new Iphone();
